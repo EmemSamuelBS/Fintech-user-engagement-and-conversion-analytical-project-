@@ -61,9 +61,9 @@ The business needed to **identify behavioral patterns** and apply data to:
 
 | Component        | Tool     | Purpose                                      |
 |------------------|----------|----------------------------------------------|
-| `Funnel Table`   | Excel    | Shows user flow and conversion at each step |
+| `Analysis and Funnel Table`   | Excel    | Shows user flow and conversion at each step |
 | `Churn Model`    | Excel    | Flags churn risk based on early behavior     |
-| `Dashboard`      | Power BI | Visual insights with interactive slicers     |
+| `Dashboard`      | Excel | Visual insights with dynamic interactive slicers     |
 | `PDF Report`     | Gamma    | Storytelling report with key findings        |
 
 ---
