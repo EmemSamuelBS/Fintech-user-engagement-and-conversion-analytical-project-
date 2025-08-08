@@ -1,6 +1,6 @@
-# 📊 Sunvest | Fintech Funnel & Churn Analysis (Excel + Power BI)
+# User Engagement, Funnel & Churn Analysis Project 
 
-**A complete behavioral analytics and conversion optimization project for a fictional fintech brand.**
+**A complete behavioral, diagnostic and perdictive analytics and conversion optimization project for a fintech brand.**
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Sunvest** is a fictional investment app aiming to simplify investing for young Nigerians aged 20–35. Although the brand attracted thousands of signups through aggressive acquisition campaigns, it faced a major challenge: **users were signing up but not taking action**.
 
-This project simulates a real-world fintech analytics engagement: from raw data to funnel tracking, churn modeling, and strategic recommendations using Excel and Power BI.
+This project simulates a real-world fintech analytics engagement: from raw data to funnel tracking, churn modeling, and strategic recommendations using Excel.
 
 ---
 
@@ -98,4 +98,21 @@ The business needed to **identify behavioral patterns** and apply data to:
 
 ---
 
+## Your Catch Right Here 
 
+All successful businesses, from fintech to e-commerce, have one thing in common: they need to understand their customers. They want to know why people buy, what keeps them coming back, and what drives them away.
+
+This project was initially created for a fintech brand, but the core analysis and insights apply to any business with a customer base. Whether you sell a product, a subscription, or a service, your customer data holds the key to unlocking new growth.
+
+I specialize in helping brands like yours turn that raw data into a clear, actionable plan.
+
+Let's Talk About Your Business.
+I'm confident I can provide similar insights for your brand, helping you optimize your customer journey and boost your bottom line.
+
+Ready to see how?
+
+ Reach out directly at: samueleemem@gmail.com, or
+
+Connect with me on LinkedIn: www.linkedin.com/in/samueleemmie,
+
+for a booked 15-30 min Starter  Discovery consultation.
